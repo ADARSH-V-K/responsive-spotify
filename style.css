@@ -1,0 +1,39 @@
+
+.container{
+    background-image:linear-gradient(-45deg, rgb(108, 14, 224) -5%, rgb(240, 55, 166));
+}
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.navbar{
+    background-color: black;
+    color: aliceblue;
+}
+.heading{
+    font-size: 50px;
+    color: #fff;
+    text-align: center;
+    margin-top: -500px;
+    overflow: hidden;
+}
+.text{
+    color: #fff;
+    font-size: 2.5rem;
+}
+/* #footer{
+    display:flex;
+    justify-content: space-around;
+} */
+.footer p{
+    color: white;
+}
+.a{
+    position: relative;
+}
+.a-img{
+    position: absolute;
+    left: 10em;
+    bottom:1px
+}
+
